@@ -1,0 +1,14 @@
+body{
+    text-align: center;
+    background: rgb(179, 210, 223);
+  
+}
+a{
+    color: rgb(75, 82, 88);
+    font-size: 18px;
+    margin-right: 15px;
+      display: inline-block;
+}
+footer{
+    margin-top: 15px;
+}
